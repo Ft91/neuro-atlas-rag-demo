@@ -1,0 +1,19 @@
+{
+  "algorithm": "SHA-256",
+  "sha256": {
+    "atlas.sqlite3": "e6c16678767df43e98fd3ef782ba4df12cca3dbd8d6e61efdcec2f51958567b5",
+    "atlas_search.sqlite3": "51fbcd6fffa9147da607a4667665060c8393ff01ee816525b32b5622810ed777",
+    "sample_selection.json": "714f4dc219317b2b0e43d751e33f76a25e067e53835d9edcbad079e123f7cef9",
+    "search_relations.json": "66e12027249dd49cd3676d04e6fb2eea848532d203aca66e32a2b77022f7cacb",
+    "evidence_policy.json": "9df3d34b599089be57f068e5ebe2e794440f1bdb9955d237927e995c4196b546",
+    "explanation_policy.json": "fae9de5501bb0ab06d792efe42e9057a0bbef69aa23c05630285600cfa028e61",
+    "retrieval_cases_10.json": "c80364e84e45bacb31bed5b341016b7e2bb1c44a811a5aac7c7a540ab1d41c3f",
+    "query_vectors_c80364e84e45bacb.json": "976738bc8817e319c163159c7a973af931f691ae7f974ccafd4d92e0ada977e1",
+    "chroma_openai/chroma.sqlite3": "16eda181504872a392b1fafa74b38cc87cd074bd9a28a40901e11ca6da247e86",
+    "chroma_openai/a47f3104-aaf3-44f0-a40a-5e3843645f62/data_level0.bin": "648c7569508f3792b3520226a58729824d1a5a6f8f983c4cb8afb5a47c9111b5",
+    "chroma_openai/a47f3104-aaf3-44f0-a40a-5e3843645f62/header.bin": "b081be2c2276a57e995075c7de2f3cb25e903798aac36d98042045533ab28f7d",
+    "chroma_openai/a47f3104-aaf3-44f0-a40a-5e3843645f62/length.bin": "10993a0062b322c9cd59baa5d86a7336c209d060cd6caef3b9fa5aa0ec50746a",
+    "chroma_openai/a47f3104-aaf3-44f0-a40a-5e3843645f62/link_lists.bin": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "note": "Exact copies of the approved 20-article data; original DOCX, credentials and answer cache excluded."
+}

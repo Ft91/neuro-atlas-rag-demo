@@ -1,0 +1,17 @@
+{
+  "tests_run": 105,
+  "failures": 0,
+  "errors": 0,
+  "skipped": 0,
+  "excluded_tests": [
+    "test_docx_parser.AtlasTests.test_cli_report_and_search_are_separate",
+    "test_docx_parser.AtlasTests.test_ids_repeat_and_match_full_import",
+    "test_docx_parser.AtlasTests.test_independent_xml_text_comparison",
+    "test_docx_parser.AtlasTests.test_revision_guard_and_immutable_storage",
+    "test_docx_parser.AtlasTests.test_twenty_complete_articles_and_section_diversity"
+  ],
+  "exclusion_reason": "These five tests parse the full original DOCX, intentionally not distributed.",
+  "external_network_blocked": true,
+  "paid_api_calls": 0,
+  "real_telegram_polling": false
+}

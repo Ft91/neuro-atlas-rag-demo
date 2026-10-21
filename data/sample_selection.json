@@ -1,0 +1,89 @@
+{
+  "selection_version": "atlas-v15-reviewed-20-v1",
+  "source_document": "atlas_neurotypology_v15.docx",
+  "source_revision": "978c1d5ded895d10393d34ad54993a5cf1badf2823d0498a3e78debb4179a63b",
+  "policy": "Fixed reviewed whole H2 articles from 20 chapters in six parts. Positions are 1-based body child indices. No truncation, random selection or semantic rewriting.",
+  "boundary_review": "Whole articles read against source XML. The nested heading in Прямой лоб is retained with its parent; no independent split. Explicit motivation/interactions are present, e.g. Большие глаза, Большой рот, Глубокий желобок. These are source claims, not added recommendations.",
+  "records": [
+    {
+      "title": "Нижняя зона - зона инстинктов",
+      "start": 51
+    },
+    {
+      "title": "Долихоцефалия - длинная голова",
+      "start": 138
+    },
+    {
+      "title": "Выраженный затылок",
+      "start": 174
+    },
+    {
+      "title": "Прямой лоб",
+      "start": 216
+    },
+    {
+      "title": "П-образная линия - структурная",
+      "start": 373
+    },
+    {
+      "title": "Густые брови",
+      "start": 506
+    },
+    {
+      "title": "Большие глаза",
+      "start": 613
+    },
+    {
+      "title": "Гашёные (опущенные) веки",
+      "start": 859
+    },
+    {
+      "title": "Прямая переносица",
+      "start": 905
+    },
+    {
+      "title": "Высокий нос",
+      "start": 955
+    },
+    {
+      "title": "Выраженные скулы",
+      "start": 1065
+    },
+    {
+      "title": "Выраженные желваки",
+      "start": 1094
+    },
+    {
+      "title": "Глубокий желобок",
+      "start": 1126
+    },
+    {
+      "title": "Большой рот",
+      "start": 1201
+    },
+    {
+      "title": "Полные губы",
+      "start": 1248
+    },
+    {
+      "title": "Высокая верхняя челюсть",
+      "start": 1416
+    },
+    {
+      "title": "Тяжёлая челюсть",
+      "start": 1493
+    },
+    {
+      "title": "Большие уши",
+      "start": 1698
+    },
+    {
+      "title": "Длинная шея",
+      "start": 1741
+    },
+    {
+      "title": "Асимметрия размера глаз",
+      "start": 1901
+    }
+  ]
+}

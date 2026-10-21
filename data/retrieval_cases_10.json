@@ -1,0 +1,78 @@
+[
+  {
+    "case_id": 1,
+    "query": "Большие глаза",
+    "expected_record_ids": [
+      "atlas_4e62d32ded3acf57d7f17ca9"
+    ],
+    "basis": "Independently assigned from stage-2 source-reviewed paragraphs before retrieval."
+  },
+  {
+    "case_id": 2,
+    "query": "Физическая и психическая выносливость",
+    "expected_record_ids": [
+      "atlas_5093dfc5b8aac70a0d956dbc"
+    ],
+    "basis": "Independently assigned from stage-2 source-reviewed paragraphs before retrieval."
+  },
+  {
+    "case_id": 3,
+    "query": "Фотографии результата",
+    "expected_record_ids": [
+      "atlas_4e62d32ded3acf57d7f17ca9"
+    ],
+    "basis": "Independently assigned from stage-2 source-reviewed paragraphs before retrieval."
+  },
+  {
+    "case_id": 4,
+    "query": "Кому помогает мысленно увидеть будущий успех?",
+    "expected_record_ids": [
+      "atlas_4e62d32ded3acf57d7f17ca9"
+    ],
+    "basis": "Independently assigned from stage-2 source-reviewed paragraphs before retrieval."
+  },
+  {
+    "case_id": 5,
+    "query": "Какой признак связан с умением долго работать без перерывов?",
+    "expected_record_ids": [
+      "atlas_5093dfc5b8aac70a0d956dbc"
+    ],
+    "basis": "Independently assigned from stage-2 source-reviewed paragraphs before retrieval."
+  },
+  {
+    "case_id": 6,
+    "query": "У кого эмоции легко прочитать по лицу?",
+    "expected_record_ids": [
+      "atlas_5913955ab51898e87d98f218"
+    ],
+    "basis": "Independently assigned from stage-2 source-reviewed paragraphs before retrieval."
+  },
+  {
+    "case_id": 7,
+    "query": "Какой признак связан с потребностью в точных объяснениях?",
+    "expected_record_ids": [
+      "atlas_5400907cce460d25a23af2a4"
+    ],
+    "basis": "Independently assigned from stage-2 source-reviewed paragraphs before retrieval."
+  },
+  {
+    "case_id": 8,
+    "query": "Кого сильнее мотивирует крупная награда сразу?",
+    "expected_record_ids": [
+      "atlas_990a457b7f6545224f97d6c8"
+    ],
+    "basis": "Independently assigned from stage-2 source-reviewed paragraphs before retrieval."
+  },
+  {
+    "case_id": 9,
+    "query": "Расписание авиарейсов Владивосток",
+    "expected_record_ids": [],
+    "basis": "No supporting information in the selected atlas articles."
+  },
+  {
+    "case_id": 10,
+    "query": "Какая группа крови у человека с большими глазами?",
+    "expected_record_ids": [],
+    "basis": "No supporting information in the selected atlas articles."
+  }
+]

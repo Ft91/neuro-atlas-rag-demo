@@ -1,0 +1,23 @@
+# Agent - Модульная RAG система
+# Python 3.10+
+
+# Векторная база данных
+chromadb>=0.4.22
+
+# OpenAI SDK
+openai>=1.10.0
+
+# Парсинг HTML
+beautifulsoup4>=4.12.0
+lxml>=5.1.0
+
+# Работа с переменными окружения
+python-dotenv>=1.0.0
+
+# Telegram Bot
+python-telegram-bot>=20.7
+
+# HTTP-клиент (прямые импорты в проекте)
+requests
+urllib3
+

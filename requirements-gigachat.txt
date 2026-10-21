@@ -1,0 +1,2 @@
+# Optional official SDK; install only in an isolated virtual environment.
+gigachat>=0.2.3,<0.3

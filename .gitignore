@@ -1,0 +1,63 @@
+# Secrets and certificates
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+# All source documents, policies derived from the atlas, vectors and user data
+/data/**
+!/data/README.md
+*.docx
+*.pdf
+*.sqlite
+*.sqlite3
+*.sqlite3-*
+*.db
+*.db-*
+chroma_db/
+chroma_openai/
+user_data.json
+# Runtime output (only explicitly reviewed aggregate reports may be shared)
+/reports/**
+*.log
+*.jsonl
+# Local environment and generated artifacts
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+dist/
+build/
+*.zip
+.git/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Approved public demo data only; full DOCX and runtime cache remain excluded.
+!/data/chroma_openai/
+!/data/chroma_openai/a47f3104-aaf3-44f0-a40a-5e3843645f62/
+!/data/atlas.sqlite3
+!/data/atlas_search.sqlite3
+!/data/chroma_openai/a47f3104-aaf3-44f0-a40a-5e3843645f62/data_level0.bin
+!/data/chroma_openai/a47f3104-aaf3-44f0-a40a-5e3843645f62/header.bin
+!/data/chroma_openai/a47f3104-aaf3-44f0-a40a-5e3843645f62/length.bin
+!/data/chroma_openai/a47f3104-aaf3-44f0-a40a-5e3843645f62/link_lists.bin
+!/data/chroma_openai/chroma.sqlite3
+!/data/evidence_policy.json
+!/data/explanation_policy.json
+!/data/query_vectors_c80364e84e45bacb.json
+!/data/retrieval_cases_10.json
+!/data/sample_selection.json
+!/data/search_relations.json
+!/reports/
+!/reports/demo_safety.json
+!/reports/demo_tests.json
+!/reports/demo_validation.json

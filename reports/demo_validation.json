@@ -1,0 +1,77 @@
+{
+  "records": 20,
+  "source_units": 167,
+  "documents": 49,
+  "vectors": 49,
+  "dimensions": 1536,
+  "collection": "atlas_openai_2a999341d056104f",
+  "source_revision": "978c1d5ded895d10393d34ad54993a5cf1badf2823d0498a3e78debb4179a63b",
+  "index_revision": "2a999341d056104f4de685350d5ade937ca542ebfcb80ba996141bcf8c9e2ca6",
+  "data_manifest_verified": true,
+  "original_text_and_metadata_preserved": true,
+  "docx_required": false,
+  "search_checks": [
+    {
+      "question": "Большие глаза",
+      "mode": "fts",
+      "record_id": "atlas_4e62d32ded3acf57d7f17ca9",
+      "canonical_quotes_verified": true
+    },
+    {
+      "question": "Большие глаза",
+      "mode": "vector",
+      "record_id": "atlas_4e62d32ded3acf57d7f17ca9",
+      "canonical_quotes_verified": true
+    },
+    {
+      "question": "Большие глаза",
+      "mode": "hybrid",
+      "record_id": "atlas_4e62d32ded3acf57d7f17ca9",
+      "canonical_quotes_verified": true
+    },
+    {
+      "question": "Физическая и психическая выносливость",
+      "mode": "fts",
+      "record_id": "atlas_5093dfc5b8aac70a0d956dbc",
+      "canonical_quotes_verified": true
+    },
+    {
+      "question": "Физическая и психическая выносливость",
+      "mode": "vector",
+      "record_id": "atlas_5093dfc5b8aac70a0d956dbc",
+      "canonical_quotes_verified": true
+    },
+    {
+      "question": "Физическая и психическая выносливость",
+      "mode": "hybrid",
+      "record_id": "atlas_5093dfc5b8aac70a0d956dbc",
+      "canonical_quotes_verified": true
+    },
+    {
+      "question": "Фотографии результата",
+      "mode": "fts",
+      "record_id": "atlas_4e62d32ded3acf57d7f17ca9",
+      "canonical_quotes_verified": true
+    },
+    {
+      "question": "Фотографии результата",
+      "mode": "vector",
+      "record_id": "atlas_4e62d32ded3acf57d7f17ca9",
+      "canonical_quotes_verified": true
+    },
+    {
+      "question": "Фотографии результата",
+      "mode": "hybrid",
+      "record_id": "atlas_4e62d32ded3acf57d7f17ca9",
+      "canonical_quotes_verified": true
+    }
+  ],
+  "cache_without_docx": "passed",
+  "api_calls": 0,
+  "embedding_calls": 0,
+  "new_search_documents": 0,
+  "reindexing": false,
+  "network_blocked": true,
+  "test_provider": "mock",
+  "runtime_storage_opened_on_temporary_copy": true
+}

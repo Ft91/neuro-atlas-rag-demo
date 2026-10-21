@@ -1,0 +1,130 @@
+{
+  "version": "atlas-evidence-v1",
+  "source_revision": "978c1d5ded895d10393d34ad54993a5cf1badf2823d0498a3e78debb4179a63b",
+  "review_note": "Exact title requests use original article paragraphs. Reverse aliases below are literal source phrases from the six reviewed relations. Practical unit IDs were reviewed for explicit source statements, never inferred as advice. No arbitrary natural-language entailment is claimed.",
+  "relations": [
+    {
+      "record_id": "atlas_4e62d32ded3acf57d7f17ca9",
+      "unit_id": "body/620",
+      "aliases": [
+        "мотивация через образ",
+        "представление желаемого будущего",
+        "фотографии результата",
+        "мысленная картина успеха"
+      ],
+      "practical": {
+        "motivation": [
+          "body/620"
+        ]
+      },
+      "reviewed_paraphrases": [
+        {
+          "phrase": "мысленно увидеть будущий успех",
+          "source_phrase": "мысленная картина успеха",
+          "unit_ids": [
+            "body/620"
+          ],
+          "templates": [
+            "Кому помогает {phrase}"
+          ],
+          "review_note": "Reviewed against the complete cited paragraph. Output remains the verbatim paragraph, including qualifications; no new trait or causal link is introduced."
+        }
+      ]
+    },
+    {
+      "record_id": "atlas_5093dfc5b8aac70a0d956dbc",
+      "unit_id": "body/1096",
+      "aliases": [
+        "выносливость",
+        "физическая и психическая выносливость",
+        "возможность продолжать работу без частых остановок"
+      ],
+      "practical": {}
+    },
+    {
+      "record_id": "atlas_5913955ab51898e87d98f218",
+      "unit_id": "body/508",
+      "aliases": [
+        "эмоциональная передача",
+        "быстро и ярко показывает симпатию",
+        "внутреннее чувство легче считывается с лица"
+      ],
+      "practical": {},
+      "reviewed_paraphrases": [
+        {
+          "phrase": "эмоции легко прочитать по лицу",
+          "source_phrase": "Внутреннее чувство легче считывается с лица.",
+          "unit_ids": [
+            "body/508"
+          ],
+          "templates": [
+            "У кого {phrase}"
+          ],
+          "review_note": "Reviewed against the complete cited paragraph. Output remains the verbatim paragraph, including qualifications; no new trait or causal link is introduced."
+        }
+      ]
+    },
+    {
+      "record_id": "atlas_5400907cce460d25a23af2a4",
+      "unit_id": "body/1133",
+      "aliases": [
+        "уточняет формулировки",
+        "ценит ясность аргументов",
+        "самостоятельное обоснование выводов"
+      ],
+      "practical": {
+        "interaction": [
+          "body/1133"
+        ]
+      },
+      "reviewed_paraphrases": [
+        {
+          "phrase": "потребностью в точных объяснениях",
+          "source_phrase": "Недостаточная конкретика воспринимается как потеря смысла или существенных нюансов.",
+          "unit_ids": [
+            "body/1128"
+          ],
+          "templates": [
+            "Какой признак связан с {phrase}"
+          ],
+          "review_note": "Reviewed against the complete cited paragraph. Output remains the verbatim paragraph, including qualifications; no new trait or causal link is introduced."
+        }
+      ]
+    },
+    {
+      "record_id": "atlas_990a457b7f6545224f97d6c8",
+      "unit_id": "body/1204",
+      "aliases": [
+        "крупный разовый приток",
+        "большой результат сразу"
+      ],
+      "practical": {
+        "motivation": [
+          "body/1204"
+        ]
+      },
+      "reviewed_paraphrases": [
+        {
+          "phrase": "крупная награда сразу",
+          "source_phrase": "Эпизодическое значительное получение благ может мотивировать сильнее, чем равномерная выдача небольших порций.",
+          "unit_ids": [
+            "body/1204"
+          ],
+          "templates": [
+            "Кого сильнее мотивирует {phrase}"
+          ],
+          "review_note": "Reviewed against the complete cited paragraph. Output remains the verbatim paragraph, including qualifications; no new trait or causal link is introduced."
+        }
+      ]
+    },
+    {
+      "record_id": "atlas_1388c92819572df3e289019e",
+      "unit_id": "body/217",
+      "aliases": [
+        "устойчивость целей",
+        "длительно придерживаться выбранного направления"
+      ],
+      "practical": {}
+    }
+  ]
+}

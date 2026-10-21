@@ -1,0 +1,13 @@
+{
+  "secrets_or_personal_ids_found": 0,
+  "absolute_personal_paths_found": 0,
+  "original_application_code_unchanged": true,
+  "original_data_copied_byte_for_byte": true,
+  "only_selected_articles_and_required_headings": true,
+  "source_docx_included": false,
+  "user_cache_and_logs_included": false,
+  "new_embeddings": 0,
+  "new_search_documents": 0,
+  "scan_includes_sqlite_and_chroma_bytes": true,
+  "publication_permission": "Explicit permission for public GitHub publication of the included 20 articles only; full atlas excluded."
+}
